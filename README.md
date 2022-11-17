@@ -4,7 +4,7 @@
 O objetivo era escolher um projeto desafiador, que nos tirasse da "zona de conforto".<br>
 Eu escolhi iniciar a minha aventura no React, uma biblioteca JavaScript para criar interfaces de usuário, fazendo um <b>quiz de programação </b>.<br></p>
 
-<h2>Aprendizados nesse projeto </h2>
+<h2>Aprendizados nesse projeto 🎯</h2>
 Com esse projeto aprendi um pouco sobre Componentização, useContext, useEffect e Reducer. <br>
 Esse projeto foi desafiador desde o momento da criação do repositório, para fazer o commit para o github e mais ainda para criar o deploy.<br>
 
@@ -16,7 +16,7 @@ Esse projeto foi desafiador desde o momento da criação do repositório, para f
 
 
 <hr>
-<h2>Deploy</h2>
+<h2>Deploy 👨🏽‍💻</h2>
 <a href="https://lilian-rangel-projeto-quiz.netlify.app/" target="_blank">Confira o jogo nesse link</a>
 <hr>
 
@@ -38,7 +38,7 @@ Esse projeto foi desafiador desde o momento da criação do repositório, para f
 <h2> Prints do quiz </h2>
 <br />
 
-<img width="50%" height="50%" src="https://user-images.githubusercontent.com/105670314/202540529-51287a79-618b-4554-aeaa-b9b192e53878.jpg">
-<img width="50%" height="50%" src="https://user-images.githubusercontent.com/105670314/202540574-0922f41d-1143-41f3-a368-54bdf7576f48.jpg">
-<img width="50%" height="50%" src="https://user-images.githubusercontent.com/105670314/202540628-84dad58f-8d21-4728-84a7-7e414e2077f1.jpg">
+<img width="50%" src="https://user-images.githubusercontent.com/105670314/202540529-51287a79-618b-4554-aeaa-b9b192e53878.jpg">
+<img width="50%" src="https://user-images.githubusercontent.com/105670314/202540574-0922f41d-1143-41f3-a368-54bdf7576f48.jpg">
+<img width="50%" src="https://user-images.githubusercontent.com/105670314/202540628-84dad58f-8d21-4728-84a7-7e414e2077f1.jpg">
 

@@ -29,9 +29,9 @@ Esse projeto foi desafiador desde o momento da criação do repositório, para f
 <li>A resposta correta aparecerá num tom verde.</li>
 </ul>
 </li>
-<li>Clique no botão <b><i>Continuar</i></b></li>
+<li>Clique no botão <b><i>Continuar</i></b>.</li>
 <li>Ao final do jogo aparecerá sua pontuação com a quantidade de acertos.</li>
-<li>Caso queira jogar novamente, basta clicar no botão <b><i>Reiniciar</i></b></li>
+<li>Caso queira jogar novamente, basta clicar no botão <b><i>Reiniciar</i></b>.</li>
 </ul>
 
 <hr>
